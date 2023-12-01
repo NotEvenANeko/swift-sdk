@@ -17,6 +17,6 @@
     <key>DashDocSetFamily</key>
       <string>dashtoc</string>
     <key>DashDocSetFallbackURL</key>
-      <string>https://github.com/NotEvenANeko/swift-sdk/</string>
+      <string>https://NotEvenANeko.github.io/swift-sdk/</string>
   </dict>
 </plist>
